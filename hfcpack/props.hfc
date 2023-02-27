@@ -1,0 +1,13 @@
+model Attr {
+}
+
+model Event {
+}
+
+model Slot {
+  default: {}
+}
+
+model Method {
+
+}
